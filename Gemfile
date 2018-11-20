@@ -8,7 +8,8 @@ gem 'rails', '~> 5.2.1'
 
 # For password encryption
 gem 'bcrypt', '>=3.1.12'
-
+# For bootstrap
+gem 'jquery-rails'
 #add bootstrap using the rails default sass language rather than the bootstrap less language
 gem 'bootstrap-sass', '>= 3.3.7'
 # Use Puma as the app server
